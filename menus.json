@@ -1,0 +1,6182 @@
+[
+  {
+    "id": 2,
+    "nombre": "Menú HAZI 2020-2021",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú HAZI temporada 2020-2021. 12 platos.",
+    "platos": [
+      {
+        "nombre": "BROCHETA DE LUMAGORRI AL CURRY, ARROZ ESPECIADO Y ENSALADA DE KALE-YOGUR",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 267,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "CEVICHE DE MANGO Y AGUACATE CON TXITXARRO MARINADO, ESPUMA DE CILANTRO Y CHIPS DE PLÁTANO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 283,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "CHARLOTA DE MERLUZA RELLENA DE CALABACÍN Y TXANGURRO, SALSA AMERICANA Y LANGOSTINO FRITO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 246,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "ENSALADA TIBIA DE VENTRESCA DE ATÚN, VERDURAS ESCALIBADAS, Y VINAGRETA BALSÁMICA DE FRESAS DE ÁLAVA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 289,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "GAZPATXO DE TOMATE ECOLÓGICO DE LOREZTI (ABERÁSTURI) Y REMOLACHA ROJA, ALBAHACA Y LASAÑA DE ANTXOAS-QUESO FRESCO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 307,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "HAMBURGUESA DE POTRO, CREMA DE GAZTAZARRA, AJO ASADO, KETCHUP DE REMOLACHA Y CRUJIENTE DE PATATA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 268,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "MANITAS DE BASATXERRI CRUJIENTES EN SALSA VIZCAÍNA, TXAMPI RELLENO Y ESPUMA DE REINETA-ROMERO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 280,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "POCHAS DE ORBISO ALIÑADAS CON MOSTAZA Y CÍTRICOS, CODORNIZ ESCABECHADA Y GUACAMOLE",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 272,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "SUSHI VARIADO CON JENGIBRE ENCURTIDO, SALSA DE SOJA, GOMA WAKAME Y EMULSIÓN DE WASABI",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 279,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "TACO DE BONITO A LA PARRILLA CON SU PROPIO JUGO, CREMA FINA DE PATATA Y CEBOLLETA ASADA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 195,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "TALLARINES CASEROS CON SHIITAKE ECOLÓGICO DE DELIKA, PESTO DE ALGAS Y VIRUTAS DE IDIAZÁBAL",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 288,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "TXIPIRONES ASADOS AL AJO-PEREJIL SOBRE BABA GANOUSH Y LACTONESA DE AJO NEGRO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 269,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "ficha_id": 354,
+        "nombre": "TORRIJA TEMPLADA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 360,
+        "nombre": "PETISÚ CAFÉ-CHOCOLATE Y HELADO FRUTOS SECOS",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 363,
+        "nombre": "LATA DE TRUFAS HELADAS CON AIRE DE CITRICOS",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 364,
+        "nombre": "CHEESECAKE CON HELADO DE PRALINÉ",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 13,
+        "nombre": "ARROZ CON LECHE CARAMELIZADO Y HELADO DE CANELA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 17,
+        "nombre": "MACEDONIA DE FRUTAS DEL TIEMPO (CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 350,
+        "nombre": "SOUFFLÉ MANDARINA Y CHOCOLATE",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      }
+    ],
+    "temporada": "2020-2021",
+    "partida": "Septiembre",
+    "platos_dia": [
+      {
+        "ficha_id": 279,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 283,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 307,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 272,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 289,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 288,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 246,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 195,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 269,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 280,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 267,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 268,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 13,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 364,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 363,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 17,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 360,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 350,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 354,
+        "seccion": "Postres"
+      }
+    ],
+    "curso_lectivo": "2020-2021"
+  },
+  {
+    "id": 3,
+    "nombre": "Menú SUSTRAI 2020-2021",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú SUSTRAI temporada 2020-2021. 11 platos.",
+    "platos": [
+      {
+        "nombre": "LASAÑA DE CALABACIN ASADO, PUERRO, CREMA DE QUESO DE CABRA Y JUGO DE CHAMPIS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 270,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "LOMO DE BACALAO ASADO CON ESPINACAS, JUGO DE COCIDO Y ESPUMA DE GARBANZOS DE ORBISO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 262,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "MOUSSAKA GRATINADA DE LUMAGORRI ASADO Y SHIITAKE ECOLÓGICO CON ENSALADA DE ESCAROLA-GRANADA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 247,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "PARMENTIER CON HONGOS Y CASTAÑAS CON HUEVO POCHÉ, ACEITE DE TRUFA Y PATATAS VIOLETA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 136,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "PENCAS DE ACELGA RELLENAS DE PALETA IBÉRICA CON SALSA ESPAÑOLA Y VINAGRETA DE MANGO-CEBOLLINO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 204,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "REVUELTO DE MORCILLA DE SUSO Y REINETA SOBRE CREMA DE BERZA Y PATATITAS PAJA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 284,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "SALMÓN EN PAPILLOTE CON VERDURITAS, SALSA TÁRTARA Y ENSALADITA DE BERROS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 143,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "SOLOMILLO DE BASATXERRI CARBONIZADO CON PURÉ DE BONIATO Y CHUTNEY DE OREJONES-JENGIBRE",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 277,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "TOSTA HOJALDRADA DE VENADO MARINADO, VIRUTAS DE PARMESANO Y EMULSIÓN DE AGUACATE",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 256,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "TXURRASKO DE TERNERA CON SAL DE AÑANA, FALSO RISOTTO DE PATATA Y SALSA IDIAZÁBAL",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 190,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "VERDURITAS DE TEMPORADA EN TEMPURA CON ROMESCO DE CACAHUETES Y MAHONESA DE CURRY",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 194,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 259,
+        "nombre": "PARMENTIER CON HONGOS Y ACEITE DE TRUFA, HUEVO POCHÉ Y PATATAS VIOLETA",
+        "cantidad_raciones": 0.1,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 266,
+        "nombre": "SUPREMA DE CORVINA RUSTIDA CON PIMIENTOS ROJOS ASADOS Y BORRAJA SALTEADA",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "ficha_id": 353,
+        "nombre": "DIÁLOGO DE FRUTAS",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 203,
+        "nombre": "LASAÑA DE CALABACIN ASADO, PUERRO, CREMA DE QUESO DE CABRA-JENGIBRE Y JUGO DE CHAMPIS",
+        "cantidad_raciones": 0.1,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 18,
+        "nombre": "VENDIMIA (CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 385,
+        "nombre": "VENDIMIA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 360,
+        "nombre": "PETISÚ CAFÉ-CHOCOLATE Y HELADO FRUTOS SECOS",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 275,
+        "nombre": "VERDURITAS EN TEMPURA CON ROMESCO DE PIQUILLOS Y MAHONESA DE CURRY",
+        "cantidad_raciones": 0.1,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 372,
+        "nombre": "GURE GOXUA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 340,
+        "nombre": "CREMA FRITA CON HELADO DE REGALÍZ",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 348,
+        "nombre": "BIZCOCHO DE YOGUR, PIÑA, CÍTRICOS Y ZANAHORIA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      }
+    ],
+    "temporada": "2020-2021",
+    "partida": "Noviembre",
+    "platos_dia": [
+      {
+        "ficha_id": 256,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 275,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 284,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 203,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 204,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 259,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 262,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 143,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 266,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 277,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 247,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 190,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 348,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 340,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 353,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 372,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 360,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 18,
+        "seccion": "Postres"
+      }
+    ],
+    "curso_lectivo": "2020-2021"
+  },
+  {
+    "id": 4,
+    "nombre": "Menú KIMUA 2020-2021",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú KIMUA temporada 2020-2021. 10 platos.",
+    "platos": [
+      {
+        "nombre": "ALCACHOFAS Y TRIGUEROS ASADOS SOBRE CREMA DE COLIFLOR Y ALMENDRAS CON PALETA IBÉRICA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 248,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "BASATXERRI A LA PARRILLA CON SAL DE AÑANA, RAVIOLI DE SHIITAKE ECOLÓGICO Y SALSA A LA PIMIENTA VERDE",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 257,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "CARRILLERAS DE TERNERA ESTOFADAS AL RIOJA ALAVESA EN CREMA DE APIONABO Y ENCURTIDOS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 252,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "ENSALADA TIBIA DE MANITAS DE BASATXERRI EN COSTRA CON ADEREZO DE CÍTRICOS Y PIPAS DE GIRASOL",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 228,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "LOMO DE DORADA RUSTICO CON BILBAÍNA THAI Y WOK DE COL LOMBRDA Y PACK CHOI",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 271,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "MUSLO DE LUMAGORRI CONFITADO, AGRIDULCE AL OPORTO CON UVAS Y ROMERO Y PASTEL DE PATATA-BACON CON FOIE",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 263,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "NUESTRA PARTICULAR VERSIÓN DE LAS PATATAS CON CHORIZO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 297,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "SAMOSAS DE BACALAO AJOARRIERO, TALLARINES DE CALAMAR AL CURRY Y ALIOLI PICANTE DE AZAFRÁN",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 249,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "SOPA MARINERA DE PESCADOS Y MARISCOS AL ESTILO DE TXEMA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 196,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "TERRINA TIBIA DE BOLETUS CON TXIPIRONES ASADOS, MAHONESA DE TRUFA, VINAGRETA DE TINTA E IDIAZÁBAL CRUJIENTE",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 255,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 350,
+        "nombre": "SOUFFLÉ MANDARINA Y CHOCOLATE",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 369,
+        "nombre": "SOUFLÉ DE MANDARINA Y CHOCOLATE",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 345,
+        "nombre": "BROCHETA DE FRUTA NATURAL",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 362,
+        "nombre": "CANUTILLOS INTEGRALES CON ARROZ CON LECHE",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 338,
+        "nombre": "LAS TEXTURAS DEL QUESO (APTO PARA CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      }
+    ],
+    "temporada": "2020-2021",
+    "partida": "Enero",
+    "platos_dia": [
+      {
+        "ficha_id": 255,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 228,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 248,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 196,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 297,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 271,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 249,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 257,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 263,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 252,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 345,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 362,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 338,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 350,
+        "seccion": "Postres"
+      }
+    ],
+    "curso_lectivo": "2020-2021"
+  },
+  {
+    "id": 5,
+    "nombre": "Menú EHIZA 2020-2021",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú EHIZA temporada 2020-2021. 5 platos.",
+    "platos": [
+      {
+        "nombre": "ALBÓNDIGAS DE JABALÍ Y FOIE EN SALSA DE MOSTAZA Y COLMENILLAS CON CREMA DE CASTAÑA-CANELA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 244,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "ARROZ MELOSO DE AZAFRÁN CON LIEBRE, SHIITAKE ECOLÓGICO, TUÉTANO Y ALCACHOFAS FRITAS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 274,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "CARPACCIO DE VENADO, TRUFA DE ORBISO, VIRUTAS DE PARMESANO, PIÑONES Y BROTES",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 333,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "PICHÓN ASADO AL PUNTO ROSA CON HAMBURGUESA DE SUS MENUDILLOS, APIONABO Y SALSA DE GROSELLAS/ARÁNDANOS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 45,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "TXITXIKIS DE CIERVO, HUEVO DE CODORNIZ Y CHIPS DE PATATA VIOLETA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 273,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 365,
+        "nombre": "MAGNUM DE BISCUIT HELADO DE ARÁNDANOS Y QUESO",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      }
+    ],
+    "temporada": "2020-2021",
+    "partida": "Enero (Caza)",
+    "platos_dia": [
+      {
+        "ficha_id": 273,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 333,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 274,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 45,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 244,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 365,
+        "seccion": "Postres"
+      }
+    ],
+    "curso_lectivo": "2020-2021"
+  },
+  {
+    "id": 6,
+    "nombre": "Menú ZURTOIN 2020-2021",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú ZURTOIN temporada 2020-2021. 10 platos.",
+    "platos": [
+      {
+        "nombre": "CANELONES DE HONGOS Y ESPINACAS AL GRATÉN CON PESTO DE RÚCULA Y YUCA FRITA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 323,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "ENSALADA CÉSAR DE LUMAGORRI CON MANZANA VERDE, MOSTAZA Y QUESO PARMESANO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 302,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "ESPÁRRAGOS FRESCOS ASADOS CON SHIITAKE ECOLÓGICO SALTEADO Y CREMA DE QUESO DE CABRA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 335,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "FISH & TXIPS (BACALAO) CON MUSELINA DE GUISANTES Y MAHONESA DE CILANTRO-LIMA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 330,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "LOMO DE MERLUZA EN SALSA VERDE A LA ALAVESA (CON HABITAS Y PERRETXIKOS)",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 157,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "RISOTTO DE GUISANTES Y ALGAS CON BERBERECHOS, HUEVO CAMPERO Y SALICORNIA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 308,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "RODABALLO A LA PARRILLA CON SAL DE AÑANA, PATATAS PANADERA Y COGOLLOS ASADOS CON VINAGRETA DE ANTXOAS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 319,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "SAN JACOBO DE LENGUA DE TERNERA E IDIAZABAL AHUMADO, SALSA AGRIDULCE DE FRUTOS ROJOS Y PATATAS DELFÍN",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 316,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "TATAKI DE ATÚN-SÉSAMO Y GOMA WAKAME SOBRE PAPAS ALIÑAS EN JUGO LICUADO DE BERROS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 320,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "TXERRIKUME ASADO A BAJA TEMPERATURA, PURÉ DE OREJONES-PIÑA Y ENSALADITA VERDE",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 310,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "ficha_id": 361,
+        "nombre": "SACHER CON HELADO DE ZANAHORIA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 386,
+        "nombre": "GAZPACHO DE MELON",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 381,
+        "nombre": "TULIPA DE FRUTAS",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 378,
+        "nombre": "CREME BRULEE CARAMELIZADO CON FRUTAS ROJAS",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      }
+    ],
+    "temporada": "2020-2021",
+    "partida": "Marzo-Abril",
+    "platos_dia": [
+      {
+        "ficha_id": 320,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 302,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 335,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 323,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 308,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 330,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 157,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 319,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 310,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 316,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 378,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 386,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 361,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 381,
+        "seccion": "Postres"
+      }
+    ],
+    "curso_lectivo": "2020-2021"
+  },
+  {
+    "id": 7,
+    "nombre": "Menú HAZI 2021-2022",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú HAZI temporada 2021-2022. 12 platos.",
+    "platos": [
+      {
+        "nombre": "ANTXOAS FRITAS AL AJILLO-LIMÓN SOBRE COMPOTA AGRIDULCE DE CEBOLLETAS Y GUINDILLAS VERDES",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 290,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "CODORNICES RELLENAS CON SHIITAKE ECOLÓGICO DE DELIKA, FOIE Y MANZANAS GLASEADAS EN SARTÉN",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 295,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "ENSALADA CAPRESE CON TOMATE DE LOREZTI (ABERÁSTURI) HORNEADO, MOZZARELLA FRESCA, ALBAHACA Y KIKOS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 300,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "GAZPACHO DE FRESARABA, LASAÑA FRÍA DE VERANO CON ANTXOAS (MARINADAS Y SALAZÓN) Y LACTONESA DE OLIVAS NEGRAS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 276,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "MILHOJAS DE BONITO Y PIPERRADA CON CREMA DE MARMITAKO-PIMENTÓN Y EMULSIÓN DE AJÍ ROJO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 281,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "PARRILLADA DE VERDURAS ASADAS CON AJO Y ROMERO, TOFU ECO MARINADO, SAL DE AÑANA Y SALSA ROMESCO (DE PIPAS)",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 253,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "POTXAS ESTOFADAS CON ACELGA, MIGAS DE PASTOR, PULPO ASADO Y VINAGRETA DE PIPARRAS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 265,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "ROAST-BEEF CON HIERBAS PROVENZALES EN SU JUGO, PURÉ DE PATATA-MANTEQUILLA Y CEBOLLETAS CONFITADAS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 286,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "SPAGUETTIS CASEROS DE CURRY FRUTTI DI MARE (CON UN PUNTITO PICANTE) Y VIRUTAS DE IDIAZÁBAL",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 261,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "TAQUITOS DE BASATXERRI Y VERDURA, PICO DE GALLO Y MAHONESA DE AGUACATE-CILANTRO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 153,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "TARTAR DE SALMÓN MARINADO Y AGUACATE-MANGO CON SALSA TZATZIKI, ALGA NORI Y ENSALADA DE DIENTE DE LEÓN",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 317,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "TXIPIRONES EN DOS COCCIONES (A LA PARRILLA / A LO PELAYO) CON ARROZ NEGRO Y ALIOLI ESCALIBADO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 322,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "ficha_id": 385,
+        "nombre": "VENDIMIA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 13,
+        "nombre": "ARROZ CON LECHE CARAMELIZADO Y HELADO DE CANELA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 14,
+        "nombre": "BROWNIE CON HELADO DE NARANJA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 17,
+        "nombre": "MACEDONIA DE FRUTAS DEL TIEMPO (CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 372,
+        "nombre": "GURE GOXUA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 344,
+        "nombre": "PASTEL DEL DÍA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 59,
+        "nombre": "TARTAR DE SALMÓN MARINADO CON AGUACATE-MANGO, SALSA TZATZIKI Y BERROS",
+        "cantidad_raciones": 0.1,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "ficha_id": 383,
+        "nombre": "COPA DE FLAN DE CUAJADA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      }
+    ],
+    "temporada": "2021-2022",
+    "partida": "Septiembre",
+    "platos_dia": [
+      {
+        "ficha_id": 59,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 300,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 276,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 253,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 261,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 265,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 290,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 281,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 322,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 295,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 286,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 153,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 13,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 14,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 383,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 372,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 17,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 344,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 18,
+        "seccion": "Postres"
+      }
+    ],
+    "curso_lectivo": "2021-2022"
+  },
+  {
+    "id": 8,
+    "nombre": "Menú SUSTRAI 2021-2022",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú SUSTRAI temporada 2021-2022. 12 platos.",
+    "platos": [
+      {
+        "nombre": "ALBÓNDIGAS DE LUMAGORRI Y QUESO DE CABRA, ALITA CRUJIENTE, SALSA DE SU PROPIO JUGO Y BONIATO ESPECIADO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 309,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "CREMA DE ALUBIA PINTA ALAVESA, MANITAS DE CERDO EN HOJA DE COL, MORCILLA DE ARROZ Y PIPARRAS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 321,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "CRUJIENTE DE HONGOS CON ACEITE DE TRUFA, JUGO DE CHAMPIÑONES Y BOUQUET DE HORTALIZAS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 328,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "ENSALADA TIBIA DE COGOLLOS ASADOS CON TXIPIRONES, SAL DE AÑANA, VINAGRETA DE ANTXOAS Y MAHONESA NEGRA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 326,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "LOMO DE BACALAO AL PILPIL DE AZAFRÁN SOBRE PISTO DE PIMIENTOS CHORICEROS Y ALCACHOFAS FRITAS .",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 315,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "MERLUZA AL GRATÉN, VERDURITAS ESCALDADAS, SU JUGO EMULSIONADO Y PATATAS AL AJO-ROMERO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 312,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "MOLLEJAS DE TERNERA A LA BRASA CON SHIITAKE ECOLÓGICO DE DELIKA, TUÉTANO Y APIONABO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 304,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "PIQUILLOS RELLENOS DE RAPE Y MEJILLONES CON CURRY LAKSA, QUINOA Y REMOLACHA ROJA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 314,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "SALTEADO DE VERDURAS NATURALES AL PERFUME DE AJO CON FOIE-GRAS EN CREMA DE CALABAZA Y CURRY",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 324,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "SOLOMILLO WELLINGTON DE BASATXERRI, SALSA DE GROSELLAS, PURÉ DE CASTAÑA-CANELA Y ENSALADITA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 306,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "SOPA DE MISO BLANCO CON FIDEOS DE ARROZ, PECHUGA DE LUMAGORRI, TOFU Y RÁBANO DAIKON",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 56,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "SURTIDO ESPECIAL DE FRITOS ´MENDI´",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 325,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 352,
+        "nombre": "CREP SUZETTE \"SIN GLUTEN\"",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 353,
+        "nombre": "DIÁLOGO DE FRUTAS",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 354,
+        "nombre": "TORRIJA TEMPLADA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 342,
+        "nombre": "MANZANA, QUESO Y MEMBRILLO (GLUTENIK GABE)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 375,
+        "nombre": "PROFITEROLES DE NATA Y CHOCOLATE",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 348,
+        "nombre": "BIZCOCHO DE YOGUR, PIÑA, CÍTRICOS Y ZANAHORIA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      }
+    ],
+    "temporada": "2021-2022",
+    "partida": "Noviembre",
+    "platos_dia": [
+      {
+        "ficha_id": 326,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 325,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 328,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 324,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 56,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 321,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 312,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 314,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 315,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 309,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 306,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 304,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 348,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 352,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 353,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 342,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 375,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 354,
+        "seccion": "Postres"
+      }
+    ],
+    "curso_lectivo": "2021-2022"
+  },
+  {
+    "id": 9,
+    "nombre": "Menú KIMUA 2021-2022",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú KIMUA temporada 2021-2022. 12 platos.",
+    "platos": [
+      {
+        "nombre": "BASATXERRI A LA PARRILLA CON SAL DE AÑANA, TXIMITXURRI Y TERRINA DE PATATA-BACON",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 301,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "BROCHETA DE SALMÓN (MARINADO EN SOJA) Y VERDURAS CON SALSA DE YOGUR-CÍTRICOS Y TARTAR DE MANZANA VERDE-APIO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 298,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "CARRILLERA DE TERNERA EN CREMA DE BERZA-AJO, ZANAHORIA BABY Y GARBANZOS FRITOS EN TEMPURA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 329,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "CORAZONES DE ALCACHOFA CON PATATITAS, VIRUTAS DE JAMÓN Y BERBERECHOS EN SALSA VERDE",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 88,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "ENSALADA TIBIA DE KALE, RÚCULA Y APIO CON QUESO DE CABRA, NUECES Y ALIÑO MIEL-MOSTAZA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 311,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "FALSO ´HELADO´ AL CORTE DE DOS SABORES (SALMÓN & MERLUZA) CON SALSA ROSA Y PISTOU DE BERROS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 144,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "MERLUZA A LA ROMANA & TXIPIRONES EN SU TINTA, CHAMPIS Y PATATITAS PAJA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 318,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "PANACHÉ DE VERDURAS DE TEMPORADA CON ACEITE OVE, PERFUME DE AJO Y PALETA IBÉRICA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 166,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "POPIETAS DE GALLO CON CALABACÍN Y LANGOSTINO EN SALSA MEUNIÈRE Y VERDURITAS TORNEADAS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 49,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "PUERROS IBÉRICOS EN FRITURA SOBRE CREMA DE PELLA-ALMENDRAS Y TOQUE DE CURRY",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 198,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "TAJINE DE LUMAGORRI CON COUS-COUS DE PASAS-PIÑONES, SHIITAKE ECOLÓGICO Y PRALINÉ DE ANACARDOS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 332,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "NUESTRA ZURRUKUTUNA DE BACALAO, AJO, PAN Y CALLOS DE BACALAO CON HUEVO CAMPERO POCHÉ ´CRUJIENTE´",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 216,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 366,
+        "nombre": "MAGNUM DE VAINILLA RELLENO DE TOFFEE DE ALMENDRA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 111,
+        "nombre": "BASATXERRI A LA PARRILLA CON SAL DE AÑANA, TERRINA DE PATATA-BACON Y TXIMITXURRI PICANTITO",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "ficha_id": 367,
+        "nombre": "CANUTILLOS CON ARROZ CON LECHE",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 303,
+        "nombre": "ZURRUKUTUNA DE BACALAO Y AJOS CON CALLOS Y HUEVO CAMPERO POCHÉ ´CRUJIENTE´",
+        "cantidad_raciones": 0.1,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 340,
+        "nombre": "CREMA FRITA CON HELADO DE REGALÍZ",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 376,
+        "nombre": "SOPA DE IDIAZÁBAL, BIZCOCHITO DE MEMBRILLO Y HELADO DE NUECES",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 345,
+        "nombre": "BROCHETA DE FRUTA NATURAL",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 347,
+        "nombre": "TATÍN DE MANZANA Y HELADO DE NUEZ MOSCADA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      }
+    ],
+    "temporada": "2021-2022",
+    "partida": "Enero",
+    "platos_dia": [
+      {
+        "ficha_id": 144,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 311,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 198,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 88,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 166,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 303,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 318,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 298,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 49,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 111,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 329,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 332,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 345,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 367,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 340,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 366,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 376,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 347,
+        "seccion": "Postres"
+      }
+    ],
+    "curso_lectivo": "2021-2022"
+  },
+  {
+    "id": 10,
+    "nombre": "Menú EHIZA 2021-2022",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú EHIZA temporada 2021-2022. 5 platos.",
+    "platos": [
+      {
+        "nombre": "CREMA REINA DE FAISÁN, COLMENILLAS AL FOIE, PICATOSTES Y TRUFA DE ORBISO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 296,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "GYOZA DE PATO Y SHIITAKE ´ECO´ CON VERDURITAS Y SALSA TERIYAKI",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 327,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "NOISETTE DE JABALÍ CON PURÉ DE BONIATOS ESPECIADOS Y MOLE NEGRO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 293,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "PALOMA TORCAZ ESTOFADA SOBRÉ PURÉ AHUMADO DE COLIFLOR Y AJOS TIERNOS A LA PARRILLA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 305,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "PA AMB TOMAQUET, VIRUTAS DE VENADO CURADO EN SAL DE AÑANA, ACEITE OVE E IDIAZÁBAL",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 331,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      }
+    ],
+    "temporada": "2021-2022",
+    "partida": "Enero (Caza)",
+    "platos_dia": [
+      {
+        "ficha_id": 122,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 63,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 274,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 45,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 244,
+        "seccion": "Carnes"
+      }
+    ],
+    "curso_lectivo": "2021-2022"
+  },
+  {
+    "id": 11,
+    "nombre": "Menú ZURTOIN 2021-2022",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú ZURTOIN temporada 2021-2022. 10 platos.",
+    "platos": [
+      {
+        "nombre": "BERENJENAS RELLENAS DE PALETA IBÉRICA Y QUESO, SALSA ESPAÑOLA Y VINAGRETA DE MANGO-CEBOLLINO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 292,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "CANELONES DE BACALAO AJOARRIERO Y GAMBAS CON QUESO IDIAZÁBAL AL GRATÉN",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 287,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "CODILLO DE BASATXERRI EN SALSA DE CERVEZA NEGRA, MOSTAZA, PURÉ DE PATATA Y CHUCRUT",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 70,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "ENSALADA TEMPLADA DE PATO CON COUS-COUS, VAINAS, VINAGRETA DE CITRICOS Y FOIE",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 278,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "ESTOFADO DE GARBANZOS, BERZA Y SHIITAKE ´ECO´ CON RABO DE TERNERA Y MANITAS DE CERDO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 313,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "FALSO RISOTTO DE CALAMAR Y MEJILLONES con mahonesa de ajo-wakame,  salicornia y Parmesano",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 245
+      },
+      {
+        "nombre": "JARRETE DE CORDERO RECENTAL CON EMULSIÓN DE CHILINDRÓN Y VERDURAS A LA BRASA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 285,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "TACO DE CARNE ROJA A LA PARRILLA, SAL DE AÑANA, PAPAS ARRUGÁS Y PIQUILLOS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 291,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "TRONCO DE MERLUZA ONDARRESA CON PERFUME DE AJO-PEREJIL Y PATATAS PANADERA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 299,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "ficha_id": 294,
+        "nombre": "HUEVOS REVUELTOS CON ESPINACAS, LANGOSTINOS, CREMA DE ZANAHORIA Y PATATITAS CRUJIENTES",
+        "cantidad_raciones": 0.1,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 346,
+        "nombre": "BOSQUE(CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 338,
+        "nombre": "LAS TEXTURAS DEL QUESO (APTO PARA CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 339,
+        "nombre": "MANZANA, YOGUR, MENTA Y PIÑA (APTO CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 282,
+        "nombre": "FALSO RISOTTO (PUNTALETTES) DE CALAMAR Y MEJILLONES CON MAHONESA DE AJO-WAKAME, SALICORNIA Y PARMESANO",
+        "cantidad_raciones": 0.1,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 350,
+        "nombre": "SOUFFLÉ MANDARINA Y CHOCOLATE",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      }
+    ],
+    "temporada": "2021-2022",
+    "partida": "Marzo-Abril",
+    "platos_dia": [
+      {
+        "ficha_id": 278,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 294,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 292,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 282,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 313,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 299,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 287,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 291,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 70,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 285,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 338,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 339,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 350,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 346,
+        "seccion": "Postres"
+      }
+    ],
+    "curso_lectivo": "2021-2022"
+  },
+  {
+    "id": 12,
+    "nombre": "Menú LANDARE 2021-2022",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú LANDARE temporada 2021-2022. 10 platos.",
+    "platos": [
+      {
+        "nombre": "BROCHETAS DE TERNERA (PICANHA) Y VERDURAS CON ENDIBIAS ASADAS E INFUSIÓN DE IDIAZABAL",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 251,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "CEVICHE DE MANGO, AGUACATE Y CILANTRO CON LUMAGORRI ESCABECHADO Y LECHE DE COCO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 334,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "COSTILLA DE BASATXERRI ASADA BBQ, MAZORCA DE MAÍZ, CHUTNEY DE PIÑA-JENGIBRE Y CREMA DE MANÍ",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 46,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "CREMA FRÍA DE GUISANTES Y ALBAHACA CON MONTADITO DE PATATA, BRANDADA DE BACALAO Y OLIVAS NEGRAS.",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 51,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "ESPÁRRAGOS FRESCOS A LA PARRILLA CON MAHONESA SUAVE DE AJO Y PERRETXIKOS CON ACEITE TRUFA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 264,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "MUSLOS DE CONEJO A LA CAZADORA CON PERFUME DE TOMILLO, SHIITAKE ECO Y PATATAS GAJO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 254,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "PAPPARDELLES SALTEADOS CON BOLOÑESA DE BONITO FRESCO Y CHAMPIS, PESTO DE RÚCULA Y QUESO PARMESANO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 258,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "PESCADO DEL DÍA EN SALSA VERDE CON BERBERECHOS, HABITAS Y BUEY DE MAR",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 260,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "QUICHÉ  ´EGIBIDE-MENDIZORROTZA´con reducción de Módena y bouquet de hortalizas",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 67
+      },
+      {
+        "nombre": "VENTRESCA DE ATÚN A LA PARRILLA CON SAL DE AÑANA, TRINXAT DE PATATA Y TIRABEQUES SALTEADOS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 250,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "ficha_id": 370,
+        "nombre": "QUICHÉ  ´EGIBIDE-MENDIZORROTZA´CON REDUCCIÓN DE MÓDENA Y BOUQUET DE HORTALIZAS",
+        "cantidad_raciones": 0.1,
+        "curso": "Primeros",
+        "categoria": ""
+      }
+    ],
+    "temporada": "2021-2022",
+    "partida": "Mayo",
+    "platos_dia": [
+      {
+        "ficha_id": 334,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 370,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 51,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 264,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 258,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 260,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 250,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 46,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 251,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 254,
+        "seccion": "Carnes"
+      }
+    ],
+    "curso_lectivo": "2021-2022"
+  },
+  {
+    "id": 13,
+    "nombre": "Menú HAZI 2022-2023",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú HAZI temporada 2022-2023. 13 platos.",
+    "platos": [
+      {
+        "nombre": "AJO-BLANCO CON SARDINAS MARINADAS, HIGOS Y VINAGRETA DE UVAS Y REDUCCIÓN DE PX",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 161,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "ALBONDIGAS DE CORDERO CON QUESO DE CABRA, COUS-COUS DE VERDURITAS Y SALSA DE MIEL-ALMENDRAS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 1,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "ANTXOA RELLENA DE PIQUILLOS, SOBRE PISTO Y VINAGRETA DE PIPARRAS-PEREJIL",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 2,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "PANNA COTTA DE ESPINACAS CON VERDURITAS, PALETA DE BASATXERRI, EMULSIÓN DE AVELLANAS Y BROTES",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 47,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "POTXAS DE SANGÜESA ESTOFADAS CON CODORNIZ-FOIE, ACELGA SALTEADA Y GUINDILLAS DE IBARRA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 163,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "POLLO COQUELETE EN DOS COCCIONES CON JUGO DE CÍTRICOS-JENGIBRE, PURE DE OREJONES Y ARROZ ESPECIADO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 188,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "SUSHI VARIADO, SALSA DE SOJA, GOMA WAKAME, EMULSIÓN DE WASABI Y JENGIBRE ENCURTIDO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 162,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "TACO DE BONITO A LA PARRILLA CON SU PROPIO JUGO, CREMA FINA DE PATATA Y CEBOLLETA ASADA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 195,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "TALLARINES CASEROS DE CURRY CON SHIITAKE ECOLÓGICO DE DELIKA, YEMA DE HUEVO TRUFADA Y VIRUTAS DE PARMESANO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 86,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "TATAKI DE ATÚN-SÉSAMO SOBRE PAPAS ALIÑAS EN JUGO LICUADO DE BERROS Y NABO DAIKON",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 158,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "TXIPIRONES RELLENOS Y ASADOS SOBRE PIPERRADA CON VINAGRETA DE MANGO-CEBOLLINO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 193,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "TXURRASKO DE TERNERA CON SAL DE AÑANA, FALSO RISOTTO DE PATATA Y SALSA IDIAZÁBAL",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 190,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "ficha_id": 13,
+        "nombre": "ARROZ CON LECHE CARAMELIZADO Y HELADO DE CANELA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 14,
+        "nombre": "BROWNIE CON HELADO DE NARANJA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 15,
+        "nombre": "COPA DE FLAN DE CUAJADA (CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 16,
+        "nombre": "GURE GOXUA (CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 17,
+        "nombre": "MACEDONIA DE FRUTAS DEL TIEMPO (CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 18,
+        "nombre": "VENDIMIA (CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 221,
+        "nombre": "ANTXOAS RELLENAS DE PIQUILLOS CON PISTO Y VINAGRETA DE PIPARRAS-PEREJIL",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      }
+    ],
+    "temporada": "2022-2023",
+    "partida": "Septiembre",
+    "platos_dia": [
+      {
+        "ficha_id": 158,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 162,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 161,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 47,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 86,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 163,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 221,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 195,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 193,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 188,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 190,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 1,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 13,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 14,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 15,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 16,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 17,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 18,
+        "seccion": "Postres"
+      }
+    ],
+    "curso_lectivo": "2022-2023"
+  },
+  {
+    "id": 14,
+    "nombre": "Menú SUSTRAI 2022-2023",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú SUSTRAI temporada 2022-2023. 12 platos.",
+    "platos": [
+      {
+        "nombre": "BASATXERRI A LA PARRILLA CON SAL DE AÑANA, TERRINA DE PATATA-BACON Y TXIMITXURRI PICANTITO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 111,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "BURGUER DE LUMAGORRI CON HUEVO DE CODORNIZ, KÉTCHUP CASERO DE PIQUILLOS Y AROS DE CEBOLLA-SÉSAMO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 129,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "CHARLOTA DE BERENJENA CON RABO DE TERNERA EN CREMA DE PATATA TRUFADA Y SHIITAKE \"ECO\" SALTEADO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 130,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "CREMA DE ALUBIA PINTA ALAVESA, RULO CON MORCILLA & COSTILLA, PANCETA RUSTIDA Y VINAGRETA DE PIPARRAS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 189,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "ENSALADA TIBIA DE MANITAS DE BASATXERRI EN COSTRA CON ADEREZO DE CÍTRICOS Y PIPAS DE GIRASOL",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 228,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "LASAÑA DE CALABACIN ASADO, PUERRO, CREMA DE QUESO DE CABRA-JENGIBRE Y JUGO DE CHAMPIS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 203,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "LOMITOS DE DORADA EN CAMA DE HORTALIZAS ASADAS, JUGO DE TEMPRANILLO Y TRAZO DE CALABAZA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 132,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "PARMENTIER CON HONGOS Y CASTAÑAS, ACEITE DE TRUFA, HUEVO POCHÉ Y PATATAS VIOLETA CRUJIENTES",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 199,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "PENCAS DE ACELGA RELLENAS DE PALETA IBÉRICA CON SALSA ESPAÑOLA Y VINAGRETA DE MANGO-CEBOLLINO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 204,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "SALMÓN EN PAPILLOTE con verdurias, salsa tártara y ensaladita de berros con manzana verde",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 241
+      },
+      {
+        "nombre": "TACO DE BACALAO AL PIL-PIL SOBRE VERDURAS ESCALIBADAS AL HORNO Y TOQUE DE TOGARASHI",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 133,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "VERDURITAS DE TEMPORADA EN TEMPURA CON ROMESCO DE CACAHUETES Y MAHONESA DE CURRY",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 194,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 352,
+        "nombre": "CREP SUZETTE \"SIN GLUTEN\"",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 353,
+        "nombre": "DIÁLOGO DE FRUTAS",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 354,
+        "nombre": "TORRIJA TEMPLADA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 143,
+        "nombre": "SALMÓN EN PAPILLOTE CON VERDURITAS, SALSA TÁRTARA Y ENSALADITA DE BERROS",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "ficha_id": 342,
+        "nombre": "MANZANA, QUESO Y MEMBRILLO (GLUTENIK GABE)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 348,
+        "nombre": "BIZCOCHO DE YOGUR, PIÑA, CÍTRICOS Y ZANAHORIA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 351,
+        "nombre": "PROFITEROLES NATA-CHOCOLATE Y HELADO FRUTOS SECOS",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      }
+    ],
+    "temporada": "2022-2023",
+    "partida": "Noviembre",
+    "platos_dia": [
+      {
+        "ficha_id": 228,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 194,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 204,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 203,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 199,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 189,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 111,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 129,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 130,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 143,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 132,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 133,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 348,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 352,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 353,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 342,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 351,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 354,
+        "seccion": "Postres"
+      }
+    ],
+    "curso_lectivo": "2022-2023"
+  },
+  {
+    "id": 15,
+    "nombre": "Menú KIMUA 2022-2023",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú KIMUA temporada 2022-2023. 10 platos.",
+    "platos": [
+      {
+        "nombre": "ALCACHOFAS Y TRIGUEROS ASADOS SOBRE CREMA DE PELLA Y ALMENDRAS CON PALETA DE BASATXERRI",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 191,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "BACALAO AJOARRIERO CON LANGOSTINOS, ESPUMA DE PATATA Y HUEVO CRUJIENTE",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 75,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "CANELONES DE HONGOS Y ESPINACAS AL GRATÉN CON PESTO DE RÚCULA, YUCA FRITA E IDIAZÁBAL",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 147,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "CARRILLERAS DE TERNERA ESTOFADAS, PURÉ DE GARBANZOS, JUGO DE COCIDO Y ESPINACAS FRITAS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 217,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "COCHIFRITO DE BASATXERRI, AJOS CONFITADOS AL TOMILLO Y ENSALADA DE PIMIENTOS ASADOS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 208,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "CREMA DE CALABAZA Y JENGIBRE CON PANCETA DE BASATXERRI RUSTIDA, MIGAS DE PASTOR, CIGALA Y PUERRO CRUJIENTE",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 160,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "ENSALADA CÉSAR CON VIRUTAS DE LUMAGORRI, MANZANA VERDE, MOSTAZA, PICATOSTES Y PARMESANO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 146,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "MERLUZA A LA ROMANA CON TXIPIRONES EN SU TINTA Y ENSALADA DE VAINAS CON MAÍZ",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 211,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "SOPA MARINERA DE PESCADOS Y MARISCOS AL ESTILO DE TXEMA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 196,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "TACO DE CARNE ROJA A LA PARRILLA CON SAL DE AÑANA, PATATAS HASSELBACK, SHIITAKE ´ECO´Y QUESO AZUL",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 207,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "ficha_id": 340,
+        "nombre": "CREMA FRITA CON HELADO DE REGALÍZ",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 343,
+        "nombre": "PETISÚ DE ANÍS Y SALSA DE CHOCOLATE CALIENTE",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 376,
+        "nombre": "SOPA DE IDIAZÁBAL, BIZCOCHITO DE MEMBRILLO Y HELADO DE NUECES",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 345,
+        "nombre": "BROCHETA DE FRUTA NATURAL",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 347,
+        "nombre": "TATÍN DE MANZANA Y HELADO DE NUEZ MOSCADA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      }
+    ],
+    "temporada": "2022-2023",
+    "partida": "Enero",
+    "platos_dia": [
+      {
+        "ficha_id": 146,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 191,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 147,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 160,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 196,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 208,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 211,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 75,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 207,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 217,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 345,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 340,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 343,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 376,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 347,
+        "seccion": "Postres"
+      }
+    ],
+    "curso_lectivo": "2022-2023"
+  },
+  {
+    "id": 16,
+    "nombre": "Menú EHIZA 2022-2023",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú EHIZA temporada 2022-2023. 5 platos.",
+    "platos": [
+      {
+        "nombre": "Falso risotto de liebre al azafrán, alcachofas fritas, shiitake eco, trufa de Orbiso y Parmesano",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 53
+      },
+      {
+        "nombre": "PICHÓN ASADO AL PUNTO ROSA CON HAMBURGUESA DE SUS MENUDILLOS, APIONABO Y SALSA DE GROSELLAS/ARÁNDANOS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 45,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "TOSTA TIBIA DE PERDIZ ESCABECHADA AL TOMILLO CON ENCURTIDOS, GUACAMOLE Y ESCAROLA FRISSÉ-GRANADA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 63,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 244,
+        "nombre": "ALBÓNDIGAS DE JABALÍ Y FOIE EN SALSA DE MOSTAZA Y COLMENILLAS CON CREMA DE CASTAÑA-CANELA",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "ficha_id": 274,
+        "nombre": "ARROZ MELOSO DE AZAFRÁN CON LIEBRE, SHIITAKE ECOLÓGICO, TUÉTANO Y ALCACHOFAS FRITAS",
+        "cantidad_raciones": 0.1,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 387,
+        "nombre": "GURE LURRA (MENÚ EHIZA 2023)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 122,
+        "nombre": "TXITXIKIS CASEROS DE VENADO CON HUEVO DE CODORNIZ SOBRE CREMA PARMENTIER SUAVE",
+        "cantidad_raciones": 0.1,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      }
+    ],
+    "temporada": "2022-2023",
+    "partida": "Enero (Caza)",
+    "platos_dia": [
+      {
+        "ficha_id": 122,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 63,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 274,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 45,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 244,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 387,
+        "seccion": "Postres"
+      }
+    ],
+    "curso_lectivo": "2022-2023"
+  },
+  {
+    "id": 17,
+    "nombre": "Menú ZURTOIN 2022-2023",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú ZURTOIN temporada 2022-2023. 10 platos.",
+    "platos": [
+      {
+        "nombre": "10.- TOURNEDÓ DE BASATXERRI, puré de boniato asado y especiado con salsa de Oporto y boletus",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 241
+      },
+      {
+        "nombre": "PALOMETA RUSTIDA SOBRE ALBORONÍA, PURÉ DE PATATA VIOLETA Y SU TEJA CRUJIENTE",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 212,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "RODABALLO A LA PARRILLA CON SU REFRITO, PATATAS PANADERA Y ALCACHOFAS FRITAS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 226,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "BROCHETA DE PESCADO Y VERDURITAS AL HORNO CON MAHONESA DE WASABI Y BOUQUET DE HORTALIZAS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 202,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "MUSLO DE LUMAGORRI CONFITADO CON CEBOLLITAS GLASEADAS, CHUTNEY DE PIÑA-CHILE Y JUGO DE UVAS Y ROMERO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 210,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "ENSALADA TIBIA DE COGOLLOS ASADOS CON TXIPIRONES, SAL DE AÑANA Y ALIOLI DE AJO NEGRO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 184,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "GUISANTES CON SHIITAKE ´ECO´, HUEVO POCHÉ , LÁMINAS DE BACALAO AL PILPIL Y TIRAS DE CALAMAR",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 179,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "PANACHÉ DE VERDURAS DE TEMPORADA CON ACEITE OVE, PERFUME DE AJO Y PALETA IBÉRICA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 166,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "PAPPARDELLES SALTEADOS CON BOLOÑESA DE ATÚN, CHAMPIS Y VIRUTAS DE IDIAZABAL",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 182,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "TOSTA DE BERENJENAS ESCALIVADAS CON ANTXOAS, BOQUERONES Y PURÉ DULCE DE AJOS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 206,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 338,
+        "nombre": "LAS TEXTURAS DEL QUESO (APTO PARA CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 339,
+        "nombre": "MANZANA, YOGUR, MENTA Y PIÑA (APTO CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 346,
+        "nombre": "BOSQUE(CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 358,
+        "nombre": "MAGNUN DE VAINILLA Y CHOCOLATE",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 381,
+        "nombre": "TULIPA DE FRUTAS",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 117,
+        "nombre": "ALBÓNDIGAS DE POTRO CON QUESO DE CABRA, SALSA DE MIEL Y MOSTAZA, BONIATO ESPECIADO Y CHUTNEY DE MELOCOTÓN.",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "ficha_id": 151,
+        "nombre": "PAPPARDELLES SALTEADOS CON BOLOÑESA DE ATÚN, CHAMPIS, PESTO E IDIAZABAL AHUMADO",
+        "cantidad_raciones": 0.1,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      }
+    ],
+    "temporada": "2022-2023",
+    "partida": "Marzo-Abril",
+    "platos_dia": [
+      {
+        "ficha_id": 206,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 184,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 166,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 151,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 179,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 212,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 226,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 202,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 210,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 117,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 338,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 358,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 339,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 381,
+        "seccion": "Postres"
+      }
+    ],
+    "curso_lectivo": "2022-2023"
+  },
+  {
+    "id": 18,
+    "nombre": "Menú LANDARE 2022-2023",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú LANDARE temporada 2022-2023. 10 platos.",
+    "platos": [
+      {
+        "nombre": "SAN JACOBO DE LENGUA DE TERNERA E IDIAZÁBAL, SALSA AGRIDULCE Y CROQUETAS DE PATATA-TRUFA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 150,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "CUCURUCHO DE FISH & TXIPS (BACALAO) CON GUISANTES ´TRABADOS´ Y MAHONESA DE CILANTRO-LIMA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 165,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "ESPETO DE SARDINAS CON SAL DE AÑANA AHUMADO EN BRASAS DE PAN NEGRO Y EMULSIÓN DE ESCABECHE",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 142,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "TRONCO DE MERLUZA ONDARRESA, COMPOTA DE CEBOLLA ROJA Y TIRABEQUES SALTEADOS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 172,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "TXERRIKUME CONFITADO, ESPUMA DE REINETA-ROMERO Y ENSALADA DE ESPÁRRAGOS BLANCOS Y CEBOLLINO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 126,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "CEVICHE DE MANGO, AGUACATE Y CILANTRO, TXITXARRO MARINADO, Y CHIPS DE PLÁTANO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 205,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "ENSALADA TIBIA DE VENTRESCA DE ATÚN, VERDURAS ESCALIBADAS, Y VINAGRETA BALSÁMICA DE FRESAS DE ÁLAVA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 289,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "ESPÁRRAGOS FRESCOS A LA PARRILLA CON SHIITAKE ´ECO´ SALTEADO Y CREMA DE QUESO DE CABRA ZELAITXO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 138,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "HUEVOS CAMPEROS REVUELTOS CON PERRETXIKOS EN CREMA FINA DE PATATA ALAVESA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 180,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "LASAÑA FRÍA DE PRIMAVERA CON ANTXOAS, QUESO FRESCO, OLIVAS Y EMULSIÓN DE PIQUILLOS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 178,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "ficha_id": 131,
+        "nombre": "ENSALADA TIBIA DE VENTRESCA DE ATÚN, VERDURAS ESCALIVADAS Y VINAGRETA BALSÁMICA",
+        "cantidad_raciones": 0.1,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "ficha_id": 377,
+        "nombre": "CANELONES DE PIÑA Y QUESO SOBRE INFUSIÓN DE MELÓN Y SORBETE TROPICAL",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 378,
+        "nombre": "CREME BRULEE CARAMELIZADO CON FRUTAS ROJAS",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 379,
+        "nombre": "MANZANA ASADA CON HELADO DE AZAFRÁN",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 350,
+        "nombre": "SOUFFLÉ MANDARINA Y CHOCOLATE",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      }
+    ],
+    "temporada": "2022-2023",
+    "partida": "Mayo",
+    "platos_dia": [
+      {
+        "ficha_id": 205,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 178,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 131,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 138,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 180,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 150,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 165,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 142,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 172,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 126,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 377,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 378,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 379,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 350,
+        "seccion": "Postres"
+      }
+    ],
+    "curso_lectivo": "2022-2023"
+  },
+  {
+    "id": 19,
+    "nombre": "Menú HAZI 2023-2024",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú HAZI temporada 2023-2024. 12 platos.",
+    "platos": [
+      {
+        "nombre": "ALBÓNDIGAS DE POTRO CON QUESO DE CABRA, SALSA DE MIEL Y MOSTAZA, BONIATO ESPECIADO Y CHUTNEY DE MELOCOTÓN.",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 117,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "ALUBIAS BLANCAS ADEREZADAS CON MOSTAZA Y CÍTRICOS, CODORNIZ ESCABECHADA Y GUACAMOLE",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 101,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "ANTXOAS EN TEMPURA SOBRE ESCALIVADA DE VERDURAS, GUINDILLAS DE IBARRA Y SALSA TÁRTARA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 175,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "BASATXERRI A LA PARRILLA CON SAL DE AÑANA, TERRINA DE PATATA-BACON Y TXIMITXURRI PICANTITO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 111,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "BURDUNTZI DE CORDERO, COUS COUS DE VERDURITAS CON PASAS Y SALSA TZATZIKI",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 154,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "CARPACCIO DE SALMÓN LIGERAMENTE MARINADO, MAHONESA DE ALCAPARRAS Y ENSALADITA DE NABO DAIKON Y BERROS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 98,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "ENSALADA CAPRESE CON TOMATE HORNEADO, MOZZARELLA FRESCA, ALBAHACA Y KIKOS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 99,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "FALSO RISOTTO DE MOLLEJAS DE TERNERA Y SHIITAKE ´ECO´, TRIGUEROS Y QUESO PARMESANO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 87,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "GAZPACHO DE FRESAS DE ÁLAVA, PAPAS ALIÑÁS, GRANIZADO DE REMOLACHA ROJA Y ESPUMA DE YOGUR GRIEGO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 97,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "MILHOJAS DE BONITO Y PIPERRADA CON CREMA DE MARMITAKO-PIMENTÓN Y EMULSIÓN DE AJÍ ROJO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 281,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "SURTIDO ESPECIAL DE FRITOS ´MENDI´ (CROQUETAS, VILLERROY, ORLY...)",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 120,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "TXIPIRONES EN DOS COCCIONES (A LA PARRILLA & A LO PELAYO) CON ARROZ CREMOSO DE MEJILLONES Y ALGAS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 106,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "ficha_id": 135,
+        "nombre": "ANTXOAS EN TEMPURA SOBRE PISTO, CON PIPARRAS Y SALSA TARTARA",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "ficha_id": 155,
+        "nombre": "MILHOJAS DE BONITO Y PIPERRADA CON CREMA DE MARMITAKO Y EMULSIÓN DE PIQUILLO",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "ficha_id": 121,
+        "nombre": "TXIPIRONES EN DOS COCINIONES PLANCHA/PELAYO CON ARROZ DE MEJILLONES Y EMULSIÓN DE SU TINTA",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "ficha_id": 14,
+        "nombre": "BROWNIE CON HELADO DE NARANJA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 15,
+        "nombre": "COPA DE FLAN DE CUAJADA (CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 16,
+        "nombre": "GURE GOXUA (CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 17,
+        "nombre": "MACEDONIA DE FRUTAS DEL TIEMPO (CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 344,
+        "nombre": "PASTEL DEL DÍA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 18,
+        "nombre": "VENDIMIA (CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 13,
+        "nombre": "ARROZ CON LECHE CARAMELIZADO Y HELADO DE CANELA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 371,
+        "nombre": "COPA DE FLAN DE CUAJADA  VEGA RUPEREZ",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 372,
+        "nombre": "GURE GOXUA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 373,
+        "nombre": "MACEDONIA FRUTAS NATURALES",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      }
+    ],
+    "temporada": "2023-2024",
+    "partida": "Septiembre",
+    "platos_dia": [
+      {
+        "ficha_id": 98,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 99,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 97,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 101,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 120,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 87,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 135,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 155,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 121,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 117,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 111,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 154,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 13,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 14,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 15,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 16,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 17,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 344,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 18,
+        "seccion": "Postres"
+      }
+    ],
+    "curso_lectivo": "2023-2024"
+  },
+  {
+    "id": 20,
+    "nombre": "Menú SUSTRAI 2023-2024",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú SUSTRAI temporada 2023-2024. 12 platos.",
+    "platos": [
+      {
+        "nombre": "ARROZ INTEGRAL NEGRO CON CALAMAR, GAMBAS, SALICORNIA SALTEADA Y ALIOLI SUAVE DE WASABI",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 223,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "CABEZA \"CASERA\" DE BASATXERRI CON VINAGRETA DE MOSTAZA ANTIGUA, MAHONESA DE ENCURTIDOS Y PISTACHO VERDE",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 231,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "CHARLOTA DE MERLUZA RELLENA DE VERDURITAS Y MEJILLONES CON SALSA AMERICANA Y LANGOSTINO FRITO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 239,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "CREMA DE ALUBIA PINTA ALAVESA, LASAÑA DE BERZA CON MORCILLA Y OREJA, PICATOSTES Y VINAGRETA DE PIPARRAS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 242,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "CRUJIENTE DE SHIITAKE ECOLÓGICO CON VERDURAS, ACEITE DE TRUFA Y BOUQUET DE HORTALIZAS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 222,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "DUO DE BACALAOS (PILPIL & CLUB RANERO) CON ALCACHOFAS FRITAS Y CHIPS DE AJO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 137,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "LOMO DE DORADA RUSTIDO en cama de hortalizas asadas con jugo de tempranillo y mantequilla",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 241
+      },
+      {
+        "nombre": "MOUSSAKA DE POLLO LUMAGORRI Y HONGOS CON ENSALADITA DE ESCAROLA Y GRANADA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 234,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "PUERROS IBÉRICOS EN FRITURA SOBRE CREMA DE BRÓCOLI ´REYNO DE NAVARRA´ Y TOQUE DE CURRY",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 227,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "RAGOUT DE CIERVO CON CONFITURA DE OREJONES Y CIRUELAS PASAS CON SU CRUJIENTE DE IDIAZABAL AHUMADO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 233,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "ROAST-BEEF CON HIERBAS PROVENZALES EN SU JUGO, PURÉ DE PATATA-MANTEQUILLA Y CEBOLLETAS CONFITADAS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 286,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "VERDURAS ASADAS CON AJO Y ROMERO, SAL DE AÑANA, TOFU ECO MARINADO Y SALSA ROMESCO (DE PIPAS)",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 214,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 232,
+        "nombre": "DUO DE BACALAO A LAS DOS SALSAS, PIL PIL Y VIZCAÍNA CON PESTO DE RUCULA Y NUECES",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "ficha_id": 132,
+        "nombre": "LOMITOS DE DORADA EN CAMA DE HORTALIZAS ASADAS, JUGO DE TEMPRANILLO Y TRAZO DE CALABAZA",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "ficha_id": 235,
+        "nombre": "ROAST BEEF CON HIERBAS PROVENZALES, CREMA DE PATATA Y CEBOLLETAS CONFITADAS",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "ficha_id": 357,
+        "nombre": "BIZCOCHO DE YOGUR, PIÑA, CÍTRICOS Y ZANAHORIA (APTO CELÍACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 352,
+        "nombre": "CREP SUZETTE \"SIN GLUTEN\"",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 353,
+        "nombre": "DIÁLOGO DE FRUTAS",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 342,
+        "nombre": "MANZANA, QUESO Y MEMBRILLO (GLUTENIK GABE)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 351,
+        "nombre": "PROFITEROLES NATA-CHOCOLATE Y HELADO FRUTOS SECOS",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 354,
+        "nombre": "TORRIJA TEMPLADA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 169,
+        "nombre": "LOMO DE DORADA RUSTIDO EN CAMA DE HORTALIZAS ASADAS AL ROMERO Y JUGO DE TEMPRANILLO",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "ficha_id": 348,
+        "nombre": "BIZCOCHO DE YOGUR, PIÑA, CÍTRICOS Y ZANAHORIA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 375,
+        "nombre": "PROFITEROLES DE NATA Y CHOCOLATE",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      }
+    ],
+    "temporada": "2023-2024",
+    "partida": "Noviembre",
+    "platos_dia": [
+      {
+        "ficha_id": 231,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 222,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 227,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 214,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 223,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 242,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 232,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 239,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 132,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 235,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 233,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 234,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 357,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 352,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 353,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 342,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 351,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 354,
+        "seccion": "Postres"
+      }
+    ],
+    "curso_lectivo": "2023-2024"
+  },
+  {
+    "id": 21,
+    "nombre": "Menú KIMUA 2023-2024",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú KIMUA temporada 2023-2024. 10 platos.",
+    "platos": [
+      {
+        "nombre": "BLACK BURGER DE ATÚN CON AROS DE CEBOLLA-SÉSAMO, TOMATE ASADO Y MAHONESA DE WASABI",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 89,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "CARRILLERAS DE TERNERA AL RIOJA ALAVESA SOBRE PURÉ DE PATATA TRUFADA Y SALTEADO DE HORTALIZAS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 84,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "CORAZONES DE ALCACHOFA CON PATATITAS, VIRUTAS DE JAMÓN Y BERBERECHOS EN SALSA VERDE",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 88,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "COSTILLA DE BASATXERRI ASADA BBQ, MAZORCA DE MAÍZ, CHUTNEY DE PIÑA-JENGIBRE Y CREMA DE MANÍ",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 46,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "ESTOFADO DE GARBANZOS CON BERZA, RABO DE TERNERA CON MANITAS Y SHIITAKE ECO SALTEADO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 52,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "LOMO DE MERLUZA AL GRATÉN DE AJO, HORTALIZAS ESCALDADAS, SU JUGO EMULSIONADO Y PATATAS AL ROMERO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 148,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "PARMENTIER CON HONGOS Y CASTAÑAS CON HUEVO POCHÉ, ACEITE DE TRUFA Y PATATAS VIOLETA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 136,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "POPIETAS DE GALLO CON CALABACÍN Y LANGOSTINO EN SALSA MEUNIÈRE Y VERDURITAS TORNEADAS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 49,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "SOPA DE MISO BLANCO CON FIDEOS DE ARROZ, PECHUGA DE LUMAGORRI, TOFU Y RÁBANO DAIKON",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 56,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "TOSTA TIBIA DE CONEJO EN ESCABECHE, MAHONESA DE AGUACATE Y CILANTRO CON ESCAROLA FRISSÉ",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 91,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 82,
+        "nombre": "PARMENTIER CON HONGOS Y CASTAÑAS CON HUEVO POCHÉ Y PATATAS VIOLETA",
+        "cantidad_raciones": 0.1,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 58,
+        "nombre": "MERLUZA CON GRATEN DE AJO ESCALIVADO, VERDURITAS ESCALDADAS Y SU JUGO EMULSIONADO",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "ficha_id": 345,
+        "nombre": "BROCHETA DE FRUTA NATURAL",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 340,
+        "nombre": "CREMA FRITA CON HELADO DE REGALÍZ",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 343,
+        "nombre": "PETISÚ DE ANÍS Y SALSA DE CHOCOLATE CALIENTE",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 347,
+        "nombre": "TATÍN DE MANZANA Y HELADO DE NUEZ MOSCADA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 376,
+        "nombre": "SOPA DE IDIAZÁBAL, BIZCOCHITO DE MEMBRILLO Y HELADO DE NUECES",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      }
+    ],
+    "temporada": "2023-2024",
+    "partida": "Enero",
+    "platos_dia": [
+      {
+        "ficha_id": 91,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 88,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 56,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 82,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 52,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 89,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 84,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 46,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 58,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 49,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 345,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 340,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 343,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 376,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 347,
+        "seccion": "Postres"
+      }
+    ],
+    "curso_lectivo": "2023-2024"
+  },
+  {
+    "id": 22,
+    "nombre": "Menú EHIZA 2023-2024",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú EHIZA temporada 2023-2024. 7 platos.",
+    "platos": [
+      {
+        "nombre": "HUMMUS DE GARBANZO Y REMOLACHA CON PICHON ESCABECHADO, CEBOLLETA ENCURTIDA, ACEITE DE PIMIENTA Y GRISINI",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 61,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "Lomo de JABALÍ a la parrilla con salsa de vino y ciruelas, trazo de castaña-canela y escarola frissé",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 53
+      },
+      {
+        "nombre": "NIGIRI DE TATAKI DE CORZO, MAHONESA DE SOJA Y TXUPITO DE SAKE (APERITIVO CAZA)",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 72,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "PECHUGA DE PERDIZ AL PUNTO ROSA CON SU MUSLO CONFITADO, CALABAZA ASADA Y SALSA DE MOSTAZA-ROMERO.",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 69,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "TALLARINES CASEROS DE CURRY Y HIERBAS CON BOLOÑESA DE VENADO, SHIITAKE ´ECO´ Y VIRUTAS DE PARMESANO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 85,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 244,
+        "nombre": "ALBÓNDIGAS DE JABALÍ Y FOIE EN SALSA DE MOSTAZA Y COLMENILLAS CON CREMA DE CASTAÑA-CANELA",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      }
+    ],
+    "temporada": "2023-2024",
+    "partida": "Enero (Caza)",
+    "platos_dia": [
+      {
+        "ficha_id": 72,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 61,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 85,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 69,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 244,
+        "seccion": "Carnes"
+      }
+    ],
+    "curso_lectivo": "2023-2024"
+  },
+  {
+    "id": 23,
+    "nombre": "Menú ZURTOIN 2023-2024",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú ZURTOIN temporada 2023-2024. 8 platos.",
+    "platos": [
+      {
+        "nombre": "CALLOS Y MORROS ESTOFADOS EN SALSA DE PIMIENTOS CHORICEROS CON MORCILLA CRUJIENTE",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 109,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "CANELONES DE HONGOS Y ESPINACAS AL GRATÉN CON PESTO DE RÚCULA Y QUESO IDIAZÁBAL",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 95,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "ENSALADA TIBIA DE COGOLLOS ASADOS CON TXIPIRONES, VINAGRETA DE ANTXOAS Y SALSA ROMESCO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 139,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "HUEVOS REVUELTOS CON PISTO Y MERLUZA SOBRE CREMA DE PORRUSALDA CON CALABAZA Y PATATITAS PAJA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 124,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "MAGRET DE PATO RUSTIDO, TIERRA DE PATATA VIOLETA, JUGO CÍTRICOS Y SHIITAKE ´ECO´ SALTEADO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 174,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "MERLUZA A LA ROMANA, MAHONESA DE SOJA Y ENSALADA DE PIMIENTOS ASADOS EN CASA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 107,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "PENCAS DE ACELGA RELLENAS DE PALETA DE BASATXERRI CON VINAGRETA DE MANGO Y CHIPS DE VERDURAS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 119,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "TERRINA DE BRÓCOLI CON MEJILLONES ESCABECHADOS, EMULSIÓN DE CILANTRO Y CRUJIENTE DE KIKOS-CURRY",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 110,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 167,
+        "nombre": "HUEVOS REVUELTOS CON PISTO Y BACALAO SOBRE CREMA DE PORRUSALDA Y PATATITAS CRUJIENTES",
+        "cantidad_raciones": 0.1,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 70,
+        "nombre": "CODILLO DE BASATXERRI EN SALSA DE CERVEZA NEGRA, MOSTAZA, PURÉ DE PATATA Y CHUCRUT",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "ficha_id": 170,
+        "nombre": "PESCADO DEL DIA A LA PARRILLA CON SAL DE AÑANA, AJADA, CACHELOS Y ALCACHOFAS FRITAS.",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "ficha_id": 55,
+        "nombre": "CANELONES RELLENOS DE HONGOS Y ESPINACAS AL GRATÉN, PESTO DE RÚCULA Y LASCAS DE QUESO IDIAZÁBAL",
+        "cantidad_raciones": 0.1,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      }
+    ],
+    "temporada": "2023-2024",
+    "partida": "Marzo-Abril",
+    "platos_dia": [
+      {
+        "ficha_id": 110,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 139,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 167,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 119,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 95,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 109,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 70,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 174,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 107,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 170,
+        "seccion": "Pescados"
+      }
+    ],
+    "curso_lectivo": "2023-2024"
+  },
+  {
+    "id": 24,
+    "nombre": "Menú LANDARE 2023-2024",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú LANDARE temporada 2023-2024. 10 platos.",
+    "platos": [
+      {
+        "nombre": "BACALAO AJOARRIERO CON LANGOSTINOS, ESPUMA DE PATATA Y HUEVO CRUJIENTE",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 75,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "CODILLO DE BASATXERRI EN SALSA DE CERVEZA NEGRA, MOSTAZA, PURÉ DE PATATA Y CHUCRUT",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 70,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "CREMA FRÍA DE GUISANTES Y ALBAHACA CON MONTADITO DE PATATA, BRANDADA DE BACALAO Y OLIVAS NEGRAS.",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 51,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "ENSALADA TEMPLADA DE PAPPARDELLES Y CHAMPIS, RULO DE CABRA, NUECES Y ALIÑO DE MIEL-MOSTAZA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 54,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "ESPÁRRAGOS FRESCOS A LA PARRILLA CON MAHONESA SUAVE DE AJO CON SHIITAKE ´ECO´ Y ACEITE TRUFA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 48,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "LOMO DE MERLUZA EN SALSA VERDE A LA ALAVESA (CON HABITAS Y PERRETXIKOS)",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 157,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "QUICHÉ ´EGIBIDE-MENDIZORROTZA´ con reducción de Módena y bouquet de hortalizas",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 67
+      },
+      {
+        "nombre": "TACO DE CARNE ROJA A LA PARRILLA, SAL DE AÑANA, PATATAS BABY Y TIRABEQUES SALTEADOS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 73,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "TARTAR DE SALMÓN MARINADO CON AGUACATE-MANGO, SALSA TZATZIKI Y BERROS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 59,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "VENTRESCA DE ATÚN ASADA CON COMPOTA AGRIDULCE DE CEBOLLA ROJA Y PATATA PANADERA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 71,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "ficha_id": 336,
+        "nombre": "SOUFFLÉ YOGUR SOBRE BIZCOCHO DE ZANAHORIA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 370,
+        "nombre": "QUICHÉ  ´EGIBIDE-MENDIZORROTZA´CON REDUCCIÓN DE MÓDENA Y BOUQUET DE HORTALIZAS",
+        "cantidad_raciones": 0.1,
+        "curso": "Primeros",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 377,
+        "nombre": "CANELONES DE PIÑA Y QUESO SOBRE INFUSIÓN DE MELÓN Y SORBETE TROPICAL",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 378,
+        "nombre": "CREME BRULEE CARAMELIZADO CON FRUTAS ROJAS",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 379,
+        "nombre": "MANZANA ASADA CON HELADO DE AZAFRÁN",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      }
+    ],
+    "temporada": "2023-2024",
+    "partida": "Mayo",
+    "platos_dia": [
+      {
+        "ficha_id": 370,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 59,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 54,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 51,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 48,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 75,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 70,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 157,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 73,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 71,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 377,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 378,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 379,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 336,
+        "seccion": "Postres"
+      }
+    ],
+    "curso_lectivo": "2023-2024"
+  },
+  {
+    "id": 25,
+    "nombre": "Menú HAZI 2024-2025",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú HAZI temporada 2024-2025. 12 platos.",
+    "platos": [
+      {
+        "nombre": "AJO-BLANCO CON LECHE DE COCO, SARDINAS MARINADAS, HUEVAS DE TRUCHA, UVAS Y REDUCCIÓN DE PX",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 104,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "ALBONDIGAS DE CORDERO CON QUESO DE CABRA, COUS-COUS DE VERDURITAS Y SALSA DE MIEL-ALMENDRAS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 1,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "ANTXOA RELLENA DE PIQUILLOS, SOBRE PISTO Y VINAGRETA DE PIPARRAS-PEREJIL",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 2,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "BASATXERRI A LA PARRILLA CON SAL DE AÑANA, ENDIBIA ASADA Y PAPAS ARRUGAS CON MOJO PICON",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 3,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "CARPACCIO DE BACALAO, TOMATE SECO, MAHONESA DE AGUACATE-LIMA, OLIVADA Y BERROS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 118,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "ESTOFADO DE POTXAS CON ACELGA, MIGAS DE PASTOR, CEBOLLETA Y PULPO ASADOS CON ALI-OLI",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 92,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "MOLLEJAS DE TERNERA A LA BRASA, SOBRE PURE DE APIONABO, GLASEADO DE ROMERO, AJETES FRESCOS Y PIÑONES",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 4,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "PANNA COTTA DE ESPINACAS CON VERDURITAS, PALETA DE BASATXERRI, EMULSIÓN DE AVELLANAS Y BROTES",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 47,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "SALTEADO DE VERDURAS NATURALES AL PERFUME DE AJO, SALSA DE SOJA Y CREMA DE JUDIAS VERDES",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 83,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "TACO DE BONITO ENCEBOLLADO EN SU PROPIO JUGO, CREMA FINA DE PATATA Y GUINDILLAS FRITAS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 5,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "TALLARINES CASEROS DE CURRY CON SHIITAKE ECOLÓGICO DE DELIKA, YEMA DE HUEVO TRUFADA Y VIRUTAS DE PARMESANO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 86,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "TXIPIRONES EN DOS COCCIONES (A LA PARRILLA & A LO PELAYO) CON ARROZ CREMOSO DE MEJILLONES Y ALGAS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 106,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "ficha_id": 14,
+        "nombre": "BROWNIE CON HELADO DE NARANJA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 15,
+        "nombre": "COPA DE FLAN DE CUAJADA (CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 16,
+        "nombre": "GURE GOXUA (CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 17,
+        "nombre": "MACEDONIA DE FRUTAS DEL TIEMPO (CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 18,
+        "nombre": "VENDIMIA (CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 221,
+        "nombre": "ANTXOAS RELLENAS DE PIQUILLOS CON PISTO Y VINAGRETA DE PIPARRAS-PEREJIL",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "ficha_id": 13,
+        "nombre": "ARROZ CON LECHE CARAMELIZADO Y HELADO DE CANELA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 371,
+        "nombre": "COPA DE FLAN DE CUAJADA  VEGA RUPEREZ",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 372,
+        "nombre": "GURE GOXUA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 373,
+        "nombre": "MACEDONIA FRUTAS NATURALES",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      }
+    ],
+    "temporada": "2024-2025",
+    "partida": "Septiembre",
+    "platos_dia": [
+      {
+        "ficha_id": 118,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 47,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 104,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 83,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 86,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 92,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 1,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 2,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 3,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 4,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 5,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 106,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 13,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 14,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 15,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 16,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 17,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 18,
+        "seccion": "Postres"
+      }
+    ],
+    "curso_lectivo": "2024-2025"
+  },
+  {
+    "id": 26,
+    "nombre": "Menú SUSTRAI 2024-2025",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú SUSTRAI temporada 2024-2025. 13 platos.",
+    "platos": [
+      {
+        "nombre": "CARRILLERA DE TERNERA SOBRE PURÉ DE GARBANZOS Y TAHINI, JUGO DE COCIDO Y ESPINACAS FRITAS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 200,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "CHARLOTA DE BERENJENAS CON RABO DE TERNERA Y BOLETUS, SU JUGO Y ENSALADA DE ESCAROLA-GRANADA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 156,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "CREMA DE ALUBIA PINTA ALAVESA, OREJA EN COL, MORCILLA, PICATOSTES Y VINAGRETA DE PIPARRAS-PEREJIL",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 240,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "ENSALADA TIBIA DE MANITAS DE BASATXERRI EN COSTRA, VINAGRETA DE CÍTRICOS Y ACEITE VÍRGEN DE GIRASOL EKIOLIO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 218,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "FALSO RISOTTO DE TXIPIRON, MEJILLONES Y WAKAME, SALICORNIA SALTEADA Y VIRUTAS DE IDIAZABAL",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 220,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "LASAÑA DE CALABACÍN ASADO, crema de queso ZELAITXO con jengibre y jugo de champiñones",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 241
+      },
+      {
+        "nombre": "LOMO DE DORADA RUSTIDO EN CAMA DE HORTALIZAS ASADAS AL ROMERO Y JUGO DE TEMPRANILLO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 169,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "NUESTRA ZURRUKUTUNA DE BACALAO, AJO, PAN Y CALLOS DE BACALAO CON HUEVO CAMPERO POCHÉ ´CRUJIENTE´",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 216,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "SAMOSAS DE BACALAO AJOARRIERO CON CARBONARA DE TALLARINES DE CALAMAR Y SHIITAKE ECOLÓGICO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 213,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "VERDURITAS DE TEMPORADA EN TEMPURA CON ROMESCO DE CACAHUETES Y MAHONESA DE CURRY",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 194,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 243,
+        "nombre": "LASAÑA DE CALABACIN ASADO, CREMA DE QUESO ZEKAITXO CON JENGIBRE Y JUGO DE CHAMPIÑONES",
+        "cantidad_raciones": 0.1,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 153,
+        "nombre": "TAQUITOS DE BASATXERRI Y VERDURA, PICO DE GALLO Y MAHONESA DE AGUACATE-CILANTRO",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "ficha_id": 143,
+        "nombre": "SALMÓN EN PAPILLOTE CON VERDURITAS, SALSA TÁRTARA Y ENSALADITA DE BERROS",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "ficha_id": 357,
+        "nombre": "BIZCOCHO DE YOGUR, PIÑA, CÍTRICOS Y ZANAHORIA (APTO CELÍACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 352,
+        "nombre": "CREP SUZETTE \"SIN GLUTEN\"",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 353,
+        "nombre": "DIÁLOGO DE FRUTAS",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 359,
+        "nombre": "MANZANA COCIDA CON MIEL A BAJA TEMPERATURA CON HELADO DE QUESO. (GLUTENIK GABE)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 351,
+        "nombre": "PROFITEROLES NATA-CHOCOLATE Y HELADO FRUTOS SECOS",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 354,
+        "nombre": "TORRIJA TEMPLADA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 203,
+        "nombre": "LASAÑA DE CALABACIN ASADO, PUERRO, CREMA DE QUESO DE CABRA-JENGIBRE Y JUGO DE CHAMPIS",
+        "cantidad_raciones": 0.1,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 348,
+        "nombre": "BIZCOCHO DE YOGUR, PIÑA, CÍTRICOS Y ZANAHORIA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 375,
+        "nombre": "PROFITEROLES DE NATA Y CHOCOLATE",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      }
+    ],
+    "temporada": "2024-2025",
+    "partida": "Noviembre",
+    "platos_dia": [
+      {
+        "ficha_id": 218,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 194,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 243,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 220,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 216,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 240,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 200,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 153,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 156,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 169,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 143,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 213,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 357,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 352,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 353,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 359,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 351,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 354,
+        "seccion": "Postres"
+      }
+    ],
+    "curso_lectivo": "2024-2025"
+  },
+  {
+    "id": 27,
+    "nombre": "Menú KIMUA 2024-2025",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú KIMUA temporada 2024-2025. 9 platos.",
+    "platos": [
+      {
+        "nombre": "ALCACHOFAS Y TRIGUEROS ASADOS SOBRE CREMA DE PELLA-ALMENDRAS Y TRAZO DE REGALIZ",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 176,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "BACALAO MARINADO EN TEMPURA, ARROZ DE VERDURITAS Y SALSA DE PIQUILLOS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 66,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "BERENJENAS RELLENAS DE PALETA DE BASATXERRI CON QUESO, SALSA ESPAÑOLA Y VINAGRETA DE MANGO-CEBOLLINO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 76,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "BURGUER DE POTRO, CEBOLLA ENCURTIDA, CREMA DE AJOS ASADOS Y PATATAS GAJO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 186,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "CHURRASCO DE TERNERA ASADO, SALSA BARBACOA Y CHUTNEY DE PIÑA-JENGIBRE",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 74,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "CREMA DE CALABAZA Y JENGIBRE CON PANCETA RUSTIDA, MIGAS DE PASTOR, CIGALA Y PUERRO CRUJIENTES",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 96,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "ENSALADA CÉSAR CON LUMAGORRI A LA PARRILLA, MANZANA VERDE, MOSTAZA Y PARMESANO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 79,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "PATITAS DE CORDERO EN SALSA DE PIMIENTOS CHORICEROS Y CHIPS DE YUCA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 78,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "SOPA MARINERA DE PESCADOS Y MARISCOS AL ESTILO DE TXEMITA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 93,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 212,
+        "nombre": "PALOMETA RUSTIDA SOBRE ALBORONÍA, PURÉ DE PATATA VIOLETA Y SU TEJA CRUJIENTE",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "ficha_id": 345,
+        "nombre": "BROCHETA DE FRUTA NATURAL",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 349,
+        "nombre": "CANUTILLOS RELLENOS DE CREMA DE CAFÉ",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 340,
+        "nombre": "CREMA FRITA CON HELADO DE REGALÍZ",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 341,
+        "nombre": "CUAJADA DE CHOCOLATE Y PERA CELÍACOS",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 343,
+        "nombre": "PETISÚ DE ANÍS Y SALSA DE CHOCOLATE CALIENTE",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 380,
+        "nombre": "CUAJADA DE CHOCOLATE CON PERA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      }
+    ],
+    "temporada": "2024-2025",
+    "partida": "Enero",
+    "platos_dia": [
+      {
+        "ficha_id": 79,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 176,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 76,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 96,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 93,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 212,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 66,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 78,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 186,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 74,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 345,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 349,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 340,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 341,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 343,
+        "seccion": "Postres"
+      }
+    ],
+    "curso_lectivo": "2024-2025"
+  },
+  {
+    "id": 28,
+    "nombre": "Menú EHIZA 2024-2025",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú EHIZA temporada 2024-2025. 5 platos.",
+    "platos": [
+      {
+        "nombre": "Canelones de JABALÍ con oreja y boletus al gratén y toque de castañas asadas con canela",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 67
+      },
+      {
+        "nombre": "CARPACCIO DE VENADO Y FOIE CURADO A LA SAL DE AÑANA, PISTACHO VERDE, RÚCULA Y VIRUTAS DE PARMESANO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 102,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "CREMA REINA DE FAISÁN, ÑOQUIS DE BONIATO, ACEITE DE TRUFA Y PICATOSTES",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 64,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "PALOMA TORCAZ ESTOFADA SOBRÉ PURÉ AHUMADO DE COLIFLOR Y AJOS TIERNOS A LA PARRILLA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 305,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "ficha_id": 388,
+        "nombre": "CROQUETAS DE PATO CONFITADO Y SHIITAKE ECO, MAHONESA DE TERIYAKI Y SU JAMÓN",
+        "cantidad_raciones": 0.1,
+        "curso": "Primeros",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 389,
+        "nombre": "CANELONES DE JABALÍ CON OREJA Y BOLETUS AL GRATÉN Y TOQUE DE CASTAÑAS ASADAS CON CANELA",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": ""
+      }
+    ],
+    "temporada": "2024-2025",
+    "partida": "Enero (Caza)",
+    "platos_dia": [
+      {
+        "ficha_id": 388,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 102,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 64,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 305,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 389,
+        "seccion": "Carnes"
+      }
+    ],
+    "curso_lectivo": "2024-2025"
+  },
+  {
+    "id": 29,
+    "nombre": "Menú ZURTOIN 2024-2025",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú ZURTOIN temporada 2024-2025. 9 platos.",
+    "platos": [
+      {
+        "nombre": "ESTOFADO DE ALUBIA BLANCA ARROCINA CON VERDURITAS, BERBERECHOS EN SALSA VERDE Y CALAMAR",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 116,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "FALSO ´HELADO´ AL CORTE DE DOS SABORES (SALMÓN & MERLUZA) CON SALSA ROSA Y PISTOU DE BERROS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 144,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "FOCACCIA INTEGRAL DE VERDURAS ASADAS CON TOFU MARINADO CON RÚCULA Y NUECES",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 108,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "MAGRET DE PATO RUSTIDO CON SALSA DE FRUTO ROJOS Y MANZANA CARAMELIZADA A LA CANELA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 141,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "NUESTRO TXERRIKUME CONFITADO, SHIITAKE ´ECO ´ SALTEADO Y ENSALADA DE ESCAROLA FRISSÉ",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 113,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "PAPPARDELLES SALTEADOS CON BOLOÑESA DE ATÚN, CHAMPIS, PESTO E IDIAZABAL AHUMADO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 151,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "PIQUILLOS RELLENOS DE ENSALADA CAMPERA CON VINAGRETA BALSÁMICA DE MOSTAZA Y MAHONESA DE MANGO-CILANTRO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 103,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "SAN JACOBO CON LENGUA DE TERNERA E IDIAZÁBAL, JUGO AGRIDULCE DE OPORTO Y CROQUETAS DE PATATA-TRUFA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 114,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "TRONCO DE MERLUZA CON ONDARRESA DE YUZU, PERFUME DE AJO-PEREJIL Y COGOLLO ASADO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 164,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "ficha_id": 137,
+        "nombre": "DUO DE BACALAOS (PILPIL & CLUB RANERO) CON ALCACHOFAS FRITAS Y CHIPS DE AJO",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "ficha_id": 358,
+        "nombre": "MAGNUN DE VAINILLA Y CHOCOLATE",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 339,
+        "nombre": "MANZANA, YOGUR, MENTA Y PIÑA (APTO CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 346,
+        "nombre": "BOSQUE(CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 376,
+        "nombre": "SOPA DE IDIAZÁBAL, BIZCOCHITO DE MEMBRILLO Y HELADO DE NUECES",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 381,
+        "nombre": "TULIPA DE FRUTAS",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      }
+    ],
+    "temporada": "2024-2025",
+    "partida": "Marzo-Abril",
+    "platos_dia": [
+      {
+        "ficha_id": 144,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 108,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 103,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 151,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 116,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 137,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 164,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 141,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 114,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 113,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 358,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 339,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 376,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 346,
+        "seccion": "Postres"
+      }
+    ],
+    "curso_lectivo": "2024-2025"
+  },
+  {
+    "id": 30,
+    "nombre": "Menú LANDARE 2024-2025",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú LANDARE temporada 2024-2025. 5 platos.",
+    "platos": [
+      {
+        "nombre": "CEVICHE DE MANGO, AGUACATE Y CILANTRO, TXITXARRO MARINADO, Y CHIPS DE PLÁTANO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 205,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "ESPÁRRAGOS FRESCOS A LA PARRILLA CON SHIITAKE ´ECO´ SALTEADO Y QUESO DE CABRA ZELAITXO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 187,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "ESTOFADO DE ALUBIA BLANCA ARROCINA CON VERDURITAS, BERBERECHOS EN SALSA VERDE Y CALAMAR",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 116,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "HUEVOS REVUELTOS CON PERRETXIKOS SOBRE CREMA FINA DE PATATA ALAVESA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 185,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "TOSTA HOJALDRADA DE VERDURAS ESCALIVADAS CON ANTXOAS EN SALAZÓN, BOQUERONES Y PURÉ DE AJOS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 209,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 215,
+        "nombre": "NUESTRO PESCADO DEL DÍA EN SALSA VERDE CON MEJILLONES DE ROCA Y HABITAS",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "ficha_id": 225,
+        "nombre": "VENTRESCA DE ATÚN A LA BRASA CON SAL DE AÑANA, ESPÁRRAGOS TRIGUEROS Y BOUQUET DE HORTALIZAS",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "ficha_id": 230,
+        "nombre": "MAGRET DE PATO RUSTIDO CON SALSA AGRIDULCE DE CÍTRICOS Y TERRINA DE PATATA-BACON",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "ficha_id": 237,
+        "nombre": "PIMIENTOS DEL PIQUILLO RELLENOS DE ZANCARRÓN Y CHAMPIÑONES CON SALSA DE RIOJA ALAVESA",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "ficha_id": 229,
+        "nombre": "BASATXERRI A LA PARRILLA CON CREMA DE BOLETUS-TRUFA Y TIRABEQUES SALTEADOS",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "ficha_id": 338,
+        "nombre": "LAS TEXTURAS DEL QUESO (APTO PARA CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 356,
+        "nombre": "SOUFFLÉ YOGUR SOBRE BIZCOCHO SACHER",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 377,
+        "nombre": "CANELONES DE PIÑA Y QUESO SOBRE INFUSIÓN DE MELÓN Y SORBETE TROPICAL",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 382,
+        "nombre": "LAS TEXTURAS DEL QUESO",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 379,
+        "nombre": "MANZANA ASADA CON HELADO DE AZAFRÁN",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      }
+    ],
+    "temporada": "2024-2025",
+    "partida": "Mayo",
+    "platos_dia": [
+      {
+        "ficha_id": 205,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 209,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 185,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 187,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 116,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 215,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 225,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 230,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 237,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 229,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 377,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 338,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 379,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 356,
+        "seccion": "Postres"
+      }
+    ],
+    "curso_lectivo": "2024-2025"
+  },
+  {
+    "id": 31,
+    "nombre": "Menú HAZI 2025-2026",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú HAZI temporada 2025-2026. 12 platos.",
+    "platos": [
+      {
+        "nombre": "ALBÓNDIGAS DE CORDERO Y QUESO DE CABRA, BONIATO ESPECIADO Y CHUTNEY DE MELOCOTÓN-TOMILLO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 127,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "ANTXOAS EN TEMPURA SOBRE ESCALIVADA DE VERDURAS, GUINDILLAS DE IBARRA Y SALSA TÁRTARA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 175,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "BROCHETA DE TERNERA Y VERDURITAS A LA PARRILLA, PATATA HASSELBACK Y TXIMITXURRI PICANTITO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 68,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "CARPACCIO DE SALMON MARINADO AL ENELDO, MAHONESA DE ALCAPARRAS Y ENSALADITA DE NABO DAIKON CON BERROS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 7,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "ENSALADA CAPRESE CON TOMATE HORNEADO, MOZZARELLA FRESCA, PESTO DE ALBAHACA Y KIKOS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 8,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "GAZPACHO DE REMOLACHA ROJA CON LASAÑA FRIA DE VERANO Y ESPUMA DE YOGUR GRIEGO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 9,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "MANITAS DE BASATXERRI RELLENAS Y CRUJIENTES, SALSA DEMI GLACE Y REINETA ASADA AL ROMERO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 81,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "POTXAS CON VERDURITAS, CANELON DE PATO Y HONGOS, CEBOLLETA ASADA Y VINAGRETA DE PIPARRAS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 12,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "SURTIDO ESPECIAL DE FRITOS 'MENDI' (CROQUETAS, VILLEROY, ORLY)",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 10,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "TACO DE BONITO A LA BRASA CON CREMA FINA DE MARMITAKO-PIMENTÓN Y EMULSIÓN DE AJÍ",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 94,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "TALLARINES CASEROS FRUTTI DI MARE CON UN PUNTITO PICANTE Y VIRUTAS DE IDIAZABAL",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 11,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "TXIPIRONES EN DOS COCCIONES (A LA PLANCHA & RELLENOS) CON ARROZ CREMOSO DE MEJILLONES Y ALIOLI NEGRO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 90,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "ficha_id": 159,
+        "nombre": "GAZPACHO DE REMOLACHA ROJA, LASAÑA FRÍA Y ESPUMA DE YOGUR GRIEGO",
+        "cantidad_raciones": 0.1,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "ficha_id": 120,
+        "nombre": "SURTIDO ESPECIAL DE FRITOS ´MENDI´ (CROQUETAS, VILLERROY, ORLY...)",
+        "cantidad_raciones": 0.1,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 14,
+        "nombre": "BROWNIE CON HELADO DE NARANJA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 15,
+        "nombre": "COPA DE FLAN DE CUAJADA (CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 16,
+        "nombre": "GURE GOXUA (CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 17,
+        "nombre": "MACEDONIA DE FRUTAS DEL TIEMPO (CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 18,
+        "nombre": "VENDIMIA (CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 13,
+        "nombre": "ARROZ CON LECHE CARAMELIZADO Y HELADO DE CANELA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 105,
+        "nombre": "CARPACCIO DE SALMÓN MARINADO, MAHONESA DE ALCAPARRAS Y ENSALADITA DE NABO DAIKON Y BERROS",
+        "cantidad_raciones": 0.1,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "ficha_id": 383,
+        "nombre": "COPA DE FLAN DE CUAJADA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 372,
+        "nombre": "GURE GOXUA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 373,
+        "nombre": "MACEDONIA FRUTAS NATURALES",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      }
+    ],
+    "temporada": "2025-2026",
+    "partida": "Septiembre",
+    "platos_dia": [
+      {
+        "ficha_id": 7,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 8,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 159,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 120,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 11,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 12,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 175,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 94,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 90,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 127,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 81,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 68,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 13,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 14,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 15,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 16,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 17,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 18,
+        "seccion": "Postres"
+      }
+    ],
+    "curso_lectivo": "2025-2026"
+  },
+  {
+    "id": 32,
+    "nombre": "Menú SUSTRAI 2025-2026",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú SUSTRAI temporada 2025-2026. 12 platos.",
+    "platos": [
+      {
+        "nombre": "CREMA DE ALUBIA PINTA ALAVESA, LASAÑA DE BERZA CON MORCILLA, OREJA Y VINAGRETA DE PIPARRAS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 125,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "CRUJIENTE DE SHIITAKE ECOLÓGICO CON VERDURITAS, ACEITE DE TRUFA Y BOUQUET DE HORTALIZAS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 173,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "HAMBURGUESA DE GARBANZOS Y CALABACÍN, GUACAMOLE Y SALSA TZATZIKI CON PATATAS GAJO DELUXE",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 219,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "LOMO DE DORADA A LA PIMIENTA VERDE, PATATAS PANADERA Y ESPÁRRAGOS TRIGUEROS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 197,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "MERLUZA RELLENA DE PISTO Y BUEY DE MAR CON SALSA AMERICANA Y LANGOSTINO FRITO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 152,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "MOUSSAKA GRATINADA DE POTRO Y BOLETUS CON ENSALADA DE ESCAROLA, GRANADA Y NUECES",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 183,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "MUSLO DE LUMAGORRI CONFITADO, JUGO DE CÍTRICOS Y JENGIBRE, PURÉ DE OREJONES Y VAINILLA Y CHULPE FRITO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 134,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "PUERROS IBÉRICOS EN FRITURA con crema de pella-almendras y toque de curry",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 67
+      },
+      {
+        "nombre": "RISOTTO (INTEGRAL) DE GUISANTES Y ALGAS, HUEVO CAMPERO, BERBERECHOS Y SALICORNIA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 171,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "ROAST-BEEF CON HIERBAS PROVENZALES EN SU JUGO, PARMENTIER DE PATATA-MANTEQUILLA Y CHALOTAS GLASEADAS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 168,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "SUSHI VARIADO CON SALSA DE SOJA, MAHONESA DE WASABI Y GOMA WAKAME",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 177,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "VERDURAS ASADAS CON PERFUME DE AJO, SAL DE AÑANA, TOFU MARINADO Y SALSA ROMESCO DE PIPAS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 149,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 198,
+        "nombre": "PUERROS IBÉRICOS EN FRITURA SOBRE CREMA DE PELLA-ALMENDRAS Y TOQUE DE CURRY",
+        "cantidad_raciones": 0.1,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 353,
+        "nombre": "DIÁLOGO DE FRUTAS",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 355,
+        "nombre": "MILFLORES CON CREMOSO DE QUESO Y TEXTURAS (CELÍACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 351,
+        "nombre": "PROFITEROLES NATA-CHOCOLATE Y HELADO FRUTOS SECOS",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 354,
+        "nombre": "TORRIJA TEMPLADA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 378,
+        "nombre": "CREME BRULEE CARAMELIZADO CON FRUTAS ROJAS",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 352,
+        "nombre": "CREP SUZETTE \"SIN GLUTEN\"",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 375,
+        "nombre": "PROFITEROLES DE NATA Y CHOCOLATE",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 384,
+        "nombre": "TORRIJA TEMPLADA EMPLATADA COCINA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 386,
+        "nombre": "CREP SUZETTE",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 390,
+        "nombre": "CREP SUZETTE",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      }
+    ],
+    "temporada": "2025-2026",
+    "partida": "Noviembre",
+    "platos_dia": [
+      {
+        "ficha_id": 177,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 173,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 198,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 149,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 171,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 125,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 219,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 197,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 152,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 168,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 134,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 183,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 378,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 352,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 353,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 355,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 351,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 354,
+        "seccion": "Postres"
+      }
+    ],
+    "curso_lectivo": "2025-2026"
+  },
+  {
+    "id": 33,
+    "nombre": "Menú KIMUA 2025-2026",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú KIMUA temporada 2025-2026. 10 platos.",
+    "platos": [
+      {
+        "nombre": "ALITAS DE LUMAGORRI GLASEADAS AL ESTILO COREANO, ARROZ PILAW Y BROTES DE SOJA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 115,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "BROCHETA DE PESCADO Y VERDURAS CON SAL DE AÑANA, SALSA MEUNIÈRE Y TABULÉ DE QUINOA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 112,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "CORAZONES DE ALCACHOFA CON PATATITAS CONFITADAS, CHAMPIÑONES Y BERBERECHOS EN SALSA VERDE",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 192,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "COSTILLA DE BASATXERRI ASADA, SALSA BBQ CASERA, MAZORCAS DE MAÍZ Y CHUTNEY DE PIÑA-JALAPEÑO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 123,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "ESTOFADO DE GARBANZOS CON RABO DE TERNERA Y MANITAS EN COL Y SHIITAKE ECOLÓGICO SALTEADO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 140,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "LOMO DE MERLUZA AL GRATÉN DE AJO, HORTALIZAS ESCALDADAS, SU JUGO EMULSIONADO Y PATATAS AL ROMERO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 148,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "PARMENTIER CON HONGOS Y CASTAÑAS CON HUEVO POCHÉ, ACEITE DE TRUFA Y PATATAS VIOLETA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 136,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "SALTEADO DE VERDURAS NATURALES AL PERFUME DE AJO, CREMA DE CALABAZA Y PANCETA DE BASATXERRI",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 128,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "SUKALKI DE CARRILLERAS DE TERNERA, CREMA DE BERZA, CEBOLLETAS, BRÓCOLI Y ZANAHORIA BABY",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 181,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "TOSTA HOJALDRADA DE VERDURAS Y CONEJO EN ESCABECHE, MAHONESA DE AGUACATE Y ESCAROLA FRISSÉ",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 145,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 349,
+        "nombre": "CANUTILLOS RELLENOS DE CREMA DE CAFÉ",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 340,
+        "nombre": "CREMA FRITA CON HELADO DE REGALÍZ",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 341,
+        "nombre": "CUAJADA DE CHOCOLATE Y PERA CELÍACOS",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 342,
+        "nombre": "MANZANA, QUESO Y MEMBRILLO (GLUTENIK GABE)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 343,
+        "nombre": "PETISÚ DE ANÍS Y SALSA DE CHOCOLATE CALIENTE",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 380,
+        "nombre": "CUAJADA DE CHOCOLATE CON PERA",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      }
+    ],
+    "temporada": "2025-2026",
+    "partida": "Enero",
+    "platos_dia": [
+      {
+        "ficha_id": 145,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 192,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 128,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 136,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 140,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 148,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 112,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 115,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 123,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 181,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 349,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 340,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 341,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 342,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 343,
+        "seccion": "Postres"
+      }
+    ],
+    "curso_lectivo": "2025-2026"
+  },
+  {
+    "id": 34,
+    "nombre": "Menú EHIZA 2025-2026",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú EHIZA temporada 2025-2026. 5 platos.",
+    "platos": [
+      {
+        "nombre": "ARROZ MELOSO DE JABALÍ Y SETAS SHIITAKE ECOLÓGICAS, LASCAS DE IDIAZABAL Y ALCACHOFAS FRITAS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 65,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "LOMO DE CIERVO EN PAN ÁCIMO, PLÁTANO ASADO A LA CANELA Y JUGO DE CACAO AMARGO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 62,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "TATAKI DE CORZO AL SÉSAMO SOBRE PAPAS ALIÑAS EN JUGO LICUADO DE BERROS Y NABO DAIKON",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 77,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "TOSTA TIBIA DE LIEBRE ESCABECHADA al tomillo, mahonesa de aguacate y rúcula silvestre",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 53
+      },
+      {
+        "nombre": "TXITXIKIS CASEROS DE VENADO CON HUEVO DE CODORNIZ SOBRE CREMA PARMENTIER SUAVE",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 122,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 57,
+        "nombre": "TOSTA HOJALDRADA DE VERDURAS Y LIEBRE EN ESCABECHE, MAHONESA DE AGUACATE Y ESCAROLA FRISSÉ",
+        "cantidad_raciones": 0.1,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      }
+    ],
+    "temporada": "2025-2026",
+    "partida": "Enero (Caza)",
+    "platos_dia": [
+      {
+        "ficha_id": 77,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 122,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 57,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 65,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 62,
+        "seccion": "Carnes"
+      }
+    ],
+    "curso_lectivo": "2025-2026"
+  },
+  {
+    "id": 35,
+    "nombre": "Menú ZURTOIN 2025-2026",
+    "clasificacion": "Menu degustacion",
+    "pax": 10,
+    "fecha": "",
+    "observaciones": "Menú ZURTOIN temporada 2025-2026. 10 platos.",
+    "platos": [
+      {
+        "nombre": "CANELONES RELLENOS DE HONGOS Y ESPINACAS AL GRATÉN, PESTO DE RÚCULA Y LASCAS DE QUESO IDIAZÁBAL",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 55,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "ENSALADA TIBIA DE COGOLLOS ASADOS CON TXIPIRONES, VINAGRETA DE ANTXOAS Y UN TOQUE DE SALSA ROMESCO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 80,
+        "curso": "Primeros",
+        "categoria": "Frío"
+      },
+      {
+        "nombre": "ESPÁRRAGOS FRESCOS A LA PARRILLA CON MAHONESA SUAVE DE AJO, SHIITAKE ECOLÓGICO Y AROMA DE TRUFA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 100,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "CALLOS Y MORROS ESTOFADOS EN SALSA DE PIMIENTOS CHORICEROS CON MORCILLA CRUJIENTE",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 109,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "HAMBURGUESA DE SALMÓN, AROS DE CEBOLLA, MAHONESA CÍTRICA Y ENSALADA FRESCA DE BERROS",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 238,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "MAGRET DE PATO CON SALSA DE REMOLACHA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 201,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "nombre": "VENTRESCA DE ATÚN A LA BRASA, SAL DE AÑANA, COMPOTA DE CEBOLLA Y PIMIENTO ROJO ASADO AL ROMERO, CACHELOS Y ENSALADA DE ESPÁRRAGO FRESCO",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 224,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "nombre": "HUEVOS REVUELTOS CON PISTO Y MERLUZA SOBRE CREMA DE PORRUSALDA CON CALABAZA Y PATATITAS PAJA",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 124,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "nombre": "TERRINA DE BRÓCOLI CON MEJILLONES ESCABECHADOS, EMULSIÓN FRESCA DE CILANTRO Y CRUJIENTE DE KIKOS-CURRY",
+        "cantidad_raciones": 0.1,
+        "ficha_id": 50,
+        "curso": "Primeros",
+        "categoria": "Caliente"
+      },
+      {
+        "ficha_id": 236,
+        "nombre": "LOMO DE MERLUZA A LA ALAVESA",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "ficha_id": 338,
+        "nombre": "LAS TEXTURAS DEL QUESO (APTO PARA CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 337,
+        "nombre": "MAGNUM DE VAINILLA Y CHOCOLATE",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 339,
+        "nombre": "MANZANA, YOGUR, MENTA Y PIÑA (APTO CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 17,
+        "nombre": "MACEDONIA DE FRUTAS DEL TIEMPO (CELIACOS)",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 175,
+        "nombre": "ANTXOAS EN TEMPURA SOBRE ESCALIVADA DE VERDURAS, GUINDILLAS DE IBARRA Y SALSA TÁRTARA",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      },
+      {
+        "ficha_id": 218,
+        "nombre": "ENSALADA TIBIA DE MANITAS DE BASATXERRI EN COSTRA, VINAGRETA DE CÍTRICOS Y ACEITE VÍRGEN DE GIRASOL EKIOLIO",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "ficha_id": 213,
+        "nombre": "SAMOSAS DE BACALAO AJOARRIERO CON CARBONARA DE TALLARINES DE CALAMAR Y SHIITAKE ECOLÓGICO",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Pescados"
+      },
+      {
+        "ficha_id": 382,
+        "nombre": "LAS TEXTURAS DEL QUESO",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 358,
+        "nombre": "MAGNUN DE VAINILLA Y CHOCOLATE",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 381,
+        "nombre": "TULIPA DE FRUTAS",
+        "cantidad_raciones": 0.1,
+        "curso": "Postres",
+        "categoria": ""
+      },
+      {
+        "ficha_id": 387,
+        "nombre": "MAGRET DE PATO CON REMOLACHA",
+        "cantidad_raciones": 0.1,
+        "curso": "Segundos",
+        "categoria": "Carnes"
+      }
+    ],
+    "temporada": "2025-2026",
+    "partida": "Marzo-Abril",
+    "platos_dia": [
+      {
+        "ficha_id": 50,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 80,
+        "seccion": "Primeros Frios"
+      },
+      {
+        "ficha_id": 124,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 100,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 55,
+        "seccion": "Primeros Calientes"
+      },
+      {
+        "ficha_id": 109,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 201,
+        "seccion": "Carnes"
+      },
+      {
+        "ficha_id": 238,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 236,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 224,
+        "seccion": "Pescados"
+      },
+      {
+        "ficha_id": 338,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 337,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 339,
+        "seccion": "Postres"
+      },
+      {
+        "ficha_id": 17,
+        "seccion": "Postres"
+      }
+    ],
+    "curso_lectivo": "2025-2026"
+  }
+]
